@@ -65,7 +65,8 @@ Bugs:
 Third Party Material:
 All files contained in this project (other than nature.js and farmzoid.js) originated from Charles Siska. index-js-p5-jathp-5.html and cs-sketch.js have been modified heavily from the originally provided files. All other files were purely provided by Charles.   
 
-Sample screenshots of the farmzoids in action:  
+Sample screenshots of the farmzoids in action: 
+
 Plotting
 ![FarmzoidsPlots](https://github.com/WillTimani/Farmzoids/blob/main/Images/FarmzoidsPlots.png)
 
