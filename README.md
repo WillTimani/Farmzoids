@@ -12,16 +12,16 @@ Days are kept track of with nature. When a day ends, nature will decrement the c
 Nature also generates Sunny, Cloudy or Rainy weather. On Cloudy days, growstate is not incremented. On Rainy days, water is not decremented, growstate is also not incremented.
 When a plant reaches a growstate of 8, it is automatically harvested. Once all plants are harvested, the program has completed its cycle.
 
-Contents:
-assets
-pix
-cs-sketch.js
-farmzoid.js
-index-js-p5-jathp-5.html
-Jathp.js
-nature.js
-p5.js
-README.txt
+Contents:  
+assets  
+pix  
+cs-sketch.js  
+farmzoid.js  
+index-js-p5-jathp-5.html  
+Jathp.js  
+nature.js  
+p5.js  
+README.txt  
 
 External Requirements:
 This program was tested using Google Chrome on a Windows 10 system, however should work with any program that can run HTML files. 
@@ -65,4 +65,19 @@ Bugs:
 Third Party Material:
 All files contained in this project (other than nature.js and farmzoid.js) originated from Charles Siska. index-js-p5-jathp-5.html and cs-sketch.js have been modified heavily from the originally provided files. All other files were purely provided by Charles.   
 
+Sample screenshots of the farmzoids in action:
+Plotting
+![FarmzoidsPlots](https://github.com/WillTimani/Farmzoids/blob/main/Images/FarmzoidsPlots.png)
+
+Seeding
+![FarmzoidsSeeds](https://github.com/WillTimani/Farmzoids/blob/main/Images/FarmzoidsSeeds.png)
+
+Watering
+![FarmzoidsWater](https://github.com/WillTimani/Farmzoids/blob/main/Images/FarmzoidsWater.png)
+
+Harvesting
+![FarmzoidsHarvest](https://github.com/WillTimani/Farmzoids/blob/main/Images/FarmzoidsHarvest.png)
+
+Finished Harvest
+![FarmzoidsFinished](https://github.com/WillTimani/Farmzoids/blob/main/Images/FarmzoidsFinished.png)
 
